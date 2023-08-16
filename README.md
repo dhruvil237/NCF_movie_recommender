@@ -10,7 +10,7 @@ This journey through cinematic wonders and intelligent recommendations is powere
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="80px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="80px">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="80px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" height="80px">
     <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" height="80px">
     <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="Optuna" height="80px">
 </p>
